@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Microsoft Defender Antivirus is a big part of the new protection in Microsoft Defender. This protection uses machine learning, analyzing lots of data, studying threats deeply, and the Microsoft cloud system to keep your computer safe. Microsoft Defender Antivirus is already inside your Windows operating system, but we need to make sure that it is up to date at all times in order fully protect our computer.
+Microsoft Defender Antivirus plays a significant role in the latest security features of Microsoft Defender. This protection relies on machine learning to carefully examine and understand potential dangers, all with the goal of safeguarding your computer. Microsoft Defender Antivirus is already integrated into your Windows operating system, but it's crucial to keep it updated regularly to ensure comprehensive protection for our computer.
 <br/> 
 <br/>
 In this project, I walk beginners through setting up Windows Security Virus and threat protection. This is the first step in using Windows built-in security features to scan for threats on your system. 
